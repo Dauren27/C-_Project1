@@ -1,0 +1,35 @@
+[
+  {
+    "Id": "63e34e1d-9f78-42c8-ae5a-09d7c9411e46",
+    "Name": "Проект 1",
+    "CustomerCompany": "Заказчик 1",
+    "ExecutorCompany": "Исполнитель 1",
+    "StartDate": "2023-01-15T00:00:00",
+    "EndDate": "2023-03-30T00:00:00",
+    "Priority": 1,
+    "ProjectManager": {
+      "Id": "2ca4b48a-37c4-4a9b-a6d4-754b5c224d1d",
+      "FirstName": "Иван",
+      "LastName": "Иванов",
+      "MiddleName": "Иванович",
+      "Email": "ivan@example.com"
+    }
+  },
+  {
+    "Id": "dfb04845-7c21-4bbd-bd16-6d5c4a2bb12d",
+    "Name": "Проект 2",
+    "CustomerCompany": "Заказчик 2",
+    "ExecutorCompany": "Исполнитель 2",
+    "StartDate": "2023-02-10T00:00:00",
+    "EndDate": "2023-04-20T00:00:00",
+    "Priority": 2,
+    "ProjectManager": {
+      "Id": "da4e1555-1f5c-48e9-9d91-e9811c2bba52",
+      "FirstName": "Петр",
+      "LastName": "Петров",
+      "MiddleName": "Петрович",
+      "Email": "petr@example.com"
+    }
+  }
+  // Другие проекты
+]

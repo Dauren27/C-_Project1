@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "2ca4b48a-37c4-4a9b-a6d4-754b5c224d1d",
+    "FirstName": "Иван",
+    "LastName": "Иванов",
+    "MiddleName": "Иванович",
+    "Email": "ivan@example.com"
+  },
+  {
+    "Id": "da4e1555-1f5c-48e9-9d91-e9811c2bba52",
+    "FirstName": "Петр",
+    "LastName": "Петров",
+    "MiddleName": "Петрович",
+    "Email": "petr@example.com"
+  }
+  // Другие сотрудники
+]
